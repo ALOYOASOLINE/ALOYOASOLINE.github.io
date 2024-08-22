@@ -4,17 +4,17 @@ lab 1 assignment
 
 This is my personal webpage hosted on GitHub Pages.
 
- ## About Me
+ # About Me
 
 I am a student learning how to create web pages using GitHub.
 
- ## My Projects
+ # My Projects
 
 - [Project 1:https://aloyoasoline.github.io/;]
 
 - [Project 2:https://aloyoasoline.github.io/-wad-.github.io/;]
 
- ## Contact
+ # Contact
 
 You can reach me at [2201200217@muni.ac.ug](mailto:myemail@example.com).
 
