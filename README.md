@@ -14,9 +14,9 @@ I am a student learning how to create web pages using GitHub.
 
 ## My Projects
 
-- [Project 1](https://aloyoasoline.github.io/;)
+- [Project 1:https://aloyoasoline.github.io/;]
 
-- [Project 2](https://aloyoasoline.github.io/-wad-.github.io/;)
+- [Project 2:https://aloyoasoline.github.io/-wad-.github.io/;]
 
  
 
