@@ -16,7 +16,7 @@ I am a student learning how to create web pages using GitHub.
 
 - [Project 1](;)
 
-- [Project 2](https://aloyoasoline.github.io/-wad-.github.io/);)
+- [Project 2](https://aloyoasoline.github.io/-wad-.github.io/)
 
  
 
